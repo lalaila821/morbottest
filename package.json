@@ -1,0 +1,15 @@
+{
+  "name": "morbot",
+  "version": "0.0.1",
+  "description": "MoR Guild Discord Bot for the Elder Scrolls Online Game.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Laila 821",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "superagent": "^3.8.2"
+  }
+}
